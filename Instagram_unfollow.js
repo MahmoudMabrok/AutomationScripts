@@ -1,3 +1,14 @@
+  /*
+  
+  Steps: 
+  - open follow window from Instagram 
+  - open console(click F12 on chrome)
+  - paste code 
+  
+  
+  
+  */
+
   // node list based on class `sqdOP  L3NKy    _8A5w5    `
   const unfollowBtns = document.querySelectorAll('[class="sqdOP  L3NKy    _8A5w5    "]');
 
